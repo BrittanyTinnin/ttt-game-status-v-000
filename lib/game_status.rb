@@ -44,6 +44,6 @@ end
 
 def winner(board)
   if won?(board)
-
+      won?(board)
   end
 end
